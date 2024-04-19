@@ -8,7 +8,8 @@
         
         <p>
             <?php echo $_POST['kucing']; ?> <br />
-            <a href="/binus-comserv/form/">Kembali</a>
         </p>
+
+        <a href="/binus-comserv/form/">Kembali</a>
     </body>
 </html>
