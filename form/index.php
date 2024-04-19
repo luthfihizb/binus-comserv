@@ -6,7 +6,10 @@
     <body>
         <h1>Kamu suka kucing apa?</h1>
 
-        <input placeholder="Tulis nama kucing" />
-        <button>Simpan</button>
+        <form action="result.php" method="POST"> 
+            <input placeholder="Tulis nama kucing" name="kucing" />
+            <button>Simpan</button>
+        </form>
     </body>
 </html>
+
