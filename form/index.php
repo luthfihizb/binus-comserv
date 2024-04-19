@@ -13,5 +13,9 @@
         <h3>Kucing kesukaanku</h3>
         <ul>
         </ul>
+
+        <?php
+            echo "Hello world"
+        ?>
     </body>
 </html>
